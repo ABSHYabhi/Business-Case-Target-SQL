@@ -5,13 +5,22 @@ As a data scientist at Target, you've been given the exciting opportunity to ana
 📚 The dataset is available in 8 csv files:
 
 customers.csv 🧑‍🤝‍🧑
+
 geolocation.csv 🗺️
+
 order_items.csv 🛍️
+
 payments.csv 💳
+
 reviews.csv 📝
+
 orders.csv 📦
+
 products.csv 📝
+
 sellers.csv 👩‍💼
+
+
 🔍 So, what does 'good' look like? We'll import the dataset and perform exploratory analysis steps to check the structure, characteristics, data types, and time period for which the data is given. We'll also look at the cities and states of customers who ordered during the given period. 🕵️‍♀️
 
 
